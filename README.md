@@ -1,5 +1,5 @@
 <h3>Hi 👋, I'm Emma</h3>
-<h4>Recent coding bootcamp graduate with a strong foundation in Ruby on Rails and JavaScript. Based in the sunny South of France, eager to dive into the exciting world of web development.</h4>
+<h4>Recently graduated from Le Wagon coding bootcamp  &#127891 with a strong foundation in Ruby on Rails and JavaScript. Based in the sunny South of France &#9728, eager to dive into the exciting world of web development &#129299&#128187.</h4>
 
 📫 Reach me on **LinkedIn** :
 <p align="left">
