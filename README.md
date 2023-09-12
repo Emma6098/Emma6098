@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emma</h1>
-<h3 align="center">Recent coding bootcamp graduate with a strong foundation in Ruby on Rails and JavaScript. Based in the sunny South of France, eager to dive into the exciting world of web development.</h3>
-
-//- 👨‍💻 All of my projects are available at [https://blooming-woodland-84892-a15a70af19f6.herokuapp.com/](https://blooming-woodland-84892-a15a70af19f6.herokuapp.com/)//
+<h3>Hi 👋, I'm Emma</h3>
+<h5>Recent coding bootcamp graduate with a strong foundation in Ruby on Rails and JavaScript. Based in the sunny South of France, eager to dive into the exciting world of web development.</h5>
 
 - 📫 How to reach me **emma_creteur@hotmail.com or on LinkedIn**
 
