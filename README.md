@@ -1,9 +1,7 @@
 <h3>Hi 👋, I'm Emma</h3>
 <h4>Recent coding bootcamp graduate with a strong foundation in Ruby on Rails and JavaScript. Based in the sunny South of France, eager to dive into the exciting world of web development.</h4>
 
-- 📫 How to reach me : **emma_creteur@hotmail.com or on LinkedIn**
-
-<h3 align="left">Connect with me:</h3>
+📫 Reach me on **LinkedIn** :
 <p align="left">
 <a href="https://linkedin.com/in/emma creteur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emma creteur" height="30" width="40" /></a>
 </p>
