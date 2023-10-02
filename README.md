@@ -1,5 +1,5 @@
-Hi 👋, I'm Emma
-Recently graduated from Le Wagon coding bootcamp  &#127891 with a strong foundation in Ruby on Rails and JavaScript. Based in the sunny South of France &#9728, eager to dive into the exciting world of web development &#129299&#128187.
+<h4>Hi 👋, I'm Emma</h4>
+<h4>Recently graduated from Le Wagon coding bootcamp  &#127891 with a strong foundation in Ruby on Rails and JavaScript. Based in the sunny South of France &#9728, eager to dive into the exciting world of web development &#129299&#128187.</h4>
 
 - 👨‍💻 My last project : [Visit For Me](https://visit-for-me1-0f6180db2e48.herokuapp.com/)&#128241;
 
