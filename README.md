@@ -1,7 +1,7 @@
 <p>Hi 👋, I'm Emma</p>
 <p>Recently graduated from Le Wagon coding bootcamp  &#127891 with a strong foundation in Ruby on Rails and JavaScript. Based in the sunny South of France &#9728, eager to dive into the exciting world of web development &#129299&#128187.</p>
 
-- 👨‍💻 My last project : [Visit For Me](https://visit-for-me-emma-e50ae7bd09ac.herokuapp.com/)&#128241;
+- 👨‍💻 My last project : [Visit For Me](https://youtu.be/CypoQ6IKTyg?si=kfW7L95OqL7af8ct)&#128241;
 
 - 📫 Reach me **on LinkedIn** :
 <p>
